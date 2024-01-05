@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44.76 45.17">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff4ed;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #3c3023;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #ffdec9;
+      }
+    </style>
+  </defs>
+  <g id="Hand-drawn_Icon_Set" data-name="Hand-drawn Icon Set">
+    <polyline class="cls-2" points="35.76 20.3 36.52 20.3 36.52 44.67 8.51 44.67 8.51 20.3 35.76 20.3"/>
+    <line class="cls-3" x1=".35" y1="27.92" x2="18.49" y2="9.78"/>
+    <line class="cls-3" x1="44.4" y1="27.92" x2="17.05" y2=".56"/>
+    <line class="cls-3" x1="18.49" y1="9.78" x2="27.92" y2=".35"/>
+    <circle class="cls-1" cx="22.52" cy="32.48" r="6.15"/>
+  </g>
+</svg>
